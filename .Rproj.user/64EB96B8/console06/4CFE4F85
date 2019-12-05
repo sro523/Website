@@ -1,0 +1,64 @@
+]0;~/Desktop/website[?1034h(base) Sydneys-MacBook-Pro:website sydro$ ls
+website.Rproj
+]0;~/Desktop/website(base) Sydneys-MacBook-Pro:website sydro$ cd ..
+]0;~/Desktop(base) Sydneys-MacBook-Pro:Desktop sydro$ l
+bash: l: command not found
+]0;~/Desktop(base) Sydneys-MacBook-Pro:Desktop sydro$ ls
+BCH
+C4G1a Prompt.docx
+Class Schedule
+CollegePhysics-OP.pdf
+Comp. Bio.
+HW11.py
+Journal stuff.docx
+Live M.docx
+Medical School Application
+Medical Stuff
+Ochem 2
+Ochem lab
+Other Important things
+Quotes .docx
+RStudio.app
+Scholarship 1.docx
+Spanish 601D 
+Spanish 610D
+Talk Abroad Pre-Activity~2.docx
+Textbooks 
+Work stuff
+Writting:Old stuff
+physics
+physics lab
+website
+~$06_LO_F19.docx
+~$13_LO_F19.docx
+~$16_LO_F19.docx
+~$17_LO_F19.docx
+~$18_LO_F19.docx
+~$19_LO_F19.docx
+~$204_E8_Ortiz,Sydney.docx
+~$204_Experiment10_SydneyOrtiz .docx
+~$E UNIVERSITY OF TEXAS AT AUSTIN.docx
+~$N 601 - Lista de vocabulario (3).doc
+~$N 601 - Lista de vocabulario (4).doc
+~$Resume.docx
+~$STENGL_RIFA_26Mar2017_SCD samples for EBK.xlsx
+~$imms’ Fairy Tales.docx
+~$os de por y para y ejercicios- Chapter 11-1 (1).docx
+~$ostats HW 5.docx
+~$periment 4.docx
+~$periment 5.docx
+~$periment 6.docx
+~$rsonal Statement.docx
+~$search Proposal .docx
+~$st 1 Review SP19.docx
+~$st 3 Review SP19.docx
+~$stLab_3.docx
+~$tiz,S Lab Report 1 .docx
+]0;~/Desktop(base) Sydneys-MacBook-Pro:Desktop sydro$ cd website/
+]0;~/Desktop/website(base) Sydneys-MacBook-Pro:website sydro$ ls
+website.Rproj
+]0;~/Desktop/website(base) Sydneys-MacBook-Pro:website sydro$ [K(base) Sydneys-MacBook-Pro:website sydro$ pwd
+/Users/sydro/Desktop/website
+]0;~/Desktop/website(base) Sydneys-MacBook-Pro:website sydro$ git init
+Initialized empty Git repository in /Users/sydro/Desktop/website/.git/
+]0;~/Desktop/website(base) Sydneys-MacBook-Pro:website sydro$ git add .
